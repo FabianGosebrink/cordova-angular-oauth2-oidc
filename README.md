@@ -1,4 +1,4 @@
-# CordovaOauth2Oidc
+# Angular Cordova OAuth2 OIDC
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
 
